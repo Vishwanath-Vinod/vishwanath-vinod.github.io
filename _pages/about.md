@@ -7,14 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am a final-year dual-degree student at IIT Madras, pursuing a BTech in Electrical Engineering and an MTech in Data Science & AI. I am currently working on my Master's Project on **Differentially Private State Space Models** with [Prof. Krishna Pillutla](https://krishnap25.github.io/) in the Machine Learning & AI Lab.
 
-I'm a Post-Baccalaureate Fellow (equivalent to pre-doctoral researcher) at the [Centre for Responsible AI](https://cerai.iitm.ac.in/) at **IIT Madras**, where I am supervised by [Prof. Krishna Pillutla](https://krishnap25.github.io/). Prior to this, I spent 5 wonderful years at IIT Madras earning my Bachelor's and Master's in Computer Science and Engineering, advised by [Prof. Balaraman Ravindran](https://dsai.iitm.ac.in/~ravi/). My research interests lie primarily in the theory and practice of Trustworthy ML, with a focus on privacy-preserving and adversarially robust machine learning models. 
+My research interests lie at the intersection of Electrical Engineering and Machine Learning, with a focus on **learning and control of dynamical and machine learning systems**, particularly under ethical constraints such as **differential privacy, fairness, and robustness**.
 
-My research at CeRAI is centred around differentially private synthetic data generation using LLMs; some of my recent work was accepted at [NeurIPS 2025](https://arxiv.org/pdf/2507.02974). I am also currently exploring interesting extensions of this work.
 
-I was previously a Student Researcher at Google Research India, in the Advertising Sciences team, working on private offline reinforcment learning algorithms. I also spent an amazing summer at the University of British Columbia hosted by [Prof. Apurva Narayan](https://a-narayan.github.io/) where I explored the adversarial robustness of quantum ML models. 
+Previously, I worked with [Prof. Rachel Kalpana Kalaimani](https://www.ee.iitm.ac.in/rachel/index.html) in the Control & Optimization group at IIT Madras, where I explored **fair multi-agent reinforcement learning for dynamic pricing**. I also spent a summer at the Australian National University as part of the Future Research Talent program, hosted by [Prof. Thushara Abhayapala](https://researchportalplus.anu.edu.au/en/persons/thushara-abhayapala/), where I developed a **Kalman filter variant for sound-source tracking using Point Neuron Learning**.
 
-Reach out to me at [firstname][lastname]2001@gmail[dot]com, to chat about research and more!
+I enjoy working on problems where ideas from machine learning, control, and signal processing come together. If you're interested in these areas or would simply like to chat about research, feel free to reach out at [vishwanath][vinod]2004@gmail[dot]com.
+
 
 
 ## News
