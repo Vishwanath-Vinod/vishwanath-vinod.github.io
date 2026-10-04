@@ -7,14 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a final-year dual-degree student at IIT Madras, pursuing a BTech in Electrical Engineering and an MTech in Data Science & AI. I am currently working on my Master's Project on **Differentially Private State Space Models** with [Prof. Krishna Pillutla](https://krishnap25.github.io/) in the Machine Learning & AI Lab.
+I am a final-year dual-degree student at IIT Madras, pursuing a BTech in Electrical Engineering and an MTech in Data Science & AI. I am currently working on my Master's Project on **Differentially Private State Space Models** with [Prof. Krishna Pillutla](https://krishnap25.github.io/) in the MLAI Lab.
 
 My research interests lie at the intersection of Electrical Engineering and Machine Learning, with a focus on **learning and control of dynamical and machine learning systems**, particularly under ethical constraints such as **differential privacy, fairness, and robustness**.
 
 
 Previously, I worked with [Prof. Rachel Kalpana Kalaimani](https://www.ee.iitm.ac.in/rachel/index.html) in the Control & Optimization group at IIT Madras, where I explored **fair multi-agent reinforcement learning for dynamic pricing**. I also spent a summer at the Australian National University as part of the Future Research Talent program, hosted by [Prof. Thushara Abhayapala](https://researchportalplus.anu.edu.au/en/persons/thushara-abhayapala/), where I developed a **Kalman filter variant for sound-source tracking using Point Neuron Learning**.
 
-I enjoy working on problems where ideas from machine learning, control, and signal processing come together. If you're interested in these areas or would simply like to chat about research, feel free to reach out at [vishwanath][vinod]2004@gmail[dot]com.
+I enjoy working on problems where ideas from machine learning, control, and differential privacy come together. If you're interested in these areas or would simply like to chat about research, feel free to reach out at [vishwanath][vinod]2004@gmail[dot]com.
 
 
 
@@ -29,6 +29,10 @@ I enjoy working on problems where ideas from machine learning, control, and sign
 
 * *[June 2024]* I have graduated with a **Dual Degree (B.Tech + M.Tech)** in Computer Science and Engineering from IIT Madras.
 
-* *[February 2024]* [QuGAP](https://arxiv.org/pdf/2402.08648) accepted at **AAAI 2024**. We explore the existence and generation of UAPs for quantum classifiers. Thanks to my amazing collaborator [Gautham](https://gautham-ga.github.io/), and to our mentor [Apurva Narayan](https://a-narayan.github.io/) for his support!
+* *[February 2025]* [Paper]() on "Point Neuron Embedded Kalman Filter" accepted at the **EUSIPCO 2026**. Thanks to my guide [Prof. Rachel Kalpana Kalaimani](https://www.ee.iitm.ac.in/rachel/index.html) for her constant support.
+* 
+* * *[November 2025]* [Paper]() on "Cooperative Multi-Agent Reinforcement Learning for Fair Dynamic Pricing" accepted at the **Computing Conference 2026**. Thanks to my mentor [Prof. Rachel Kalpana Kalaimani](https://www.ee.iitm.ac.in/rachel/index.html) for her constant support.
+    
+* *[July 2025]* I was awarded the Future Research Talent Award at the Australian National University by Nobel Laureate Brian Schmidt. A great honour to have been in the presence of such a great mind.
 
-* *[November 2023]* I will be interning as a **Student Researcher** at Google Research for 6 months.
+* *[April 2025]* I was awarded the Sri V Rajagopalan Memorial Award for the highest academic performance in the department.
