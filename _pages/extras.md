@@ -5,26 +5,17 @@ redirect_from:
   - /extras/
   - /extras.html
 ---
-Departmental academic service.
 
-<!-- ### Reviewing
+### Academic Extra-Curriculars at IIT Madras
 
-**Conferences**: NeurIPS, ICML, ICLR, AISTATS  
+- **Teaching Assistant**: Reinforcement Learning, by Balaraman Ravindran in Spring '26
+- **Teaching Assistant**: Foundations of ML, by Krishna Pillutla in Fall '26
 
-**Journals**: JMLR, JOTA, Math. Prog.   -->
-
-### Department Service at IIT Madras
-
-- **GPU cluster maintainer** for Krishna Pillutla's group (2025-present)
-- **Teaching Assistant**: Introduction to ML (NPTEL), by Balaraman Ravindran in Spring '25
-- **Teaching Assistant**: Reinforcement Learning, by Balaraman Ravindran in Spring '24 & '25
-- **Teaching Assistant**: Foundations of ML, by Balaraman Ravindran in Fall '23
-- **Academic Mentor** for UG freshers, at the Student Mentorship Cell, IIT Madras  (2021)
 
 
 ### Volunteering
-
-- Volunteer at NeurIPS 2025, to be held in San Diego, CA, USA
-- Volunteer at AAAI 2024, held in Vancouver, BC, Canada
+- Coordinator for Electrical Engineering Research Club to promote research culture in the department via organising research talks and seminars.
+- Coordinator for Coding & Logic Club, Shaastra Tech Fest organizing and preparing competitive programming competitions.
+- Deputy Coordinator for Electrical Engineering Placement Team, managing placement drives and student-company interactions.
 
 
