@@ -14,7 +14,7 @@ redirect_from:
 
 
 ### Volunteering
-- **Electrical Engineering Research Club:** Coordinator: Promoted research culture in the department via organising research talks and seminars.
+- **Electrical Engineering Research Club:** Coordinator: Promoted research culture in the department by organising talks and seminars.
 - **Coding & Logic Club, Shaastra Tech Fest:** Coordinator: Organised and prepared competitive programming competitions.
 - **Electrical Engineering Placement Team:** Deputy Coordinator:  Managed placement drives and student-company interactions.
 
