@@ -24,7 +24,7 @@ If my work interests you, or if you'd simply like to chat about research, feel f
 
 * *November 2025* — Our paper, [“Cooperative Multi-Agent Reinforcement Learning for Fair Dynamic Pricing”](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UZ9NflsAAAAJ&citation_for_view=UZ9NflsAAAAJ:u5HHmVD_uO8C), was accepted at the **Computing Conference 2026**. A special thanks to my mentor, [Prof. Rachel](https://www.ee.iitm.ac.in/rachel/index.html), for her guidance and support.
 
-* *July 2025* — Received the **Future Research Talent Award** at the Australian National University, presented by Nobel Laureate [Brian Schmidt](https://en.wikipedia.org/wiki/Brian_Schmidt). It was an honour to participate in the program and meet him.
+* *July 2025* — Received the **Future Research Talent Award** at the Australian National University, presented by Nobel Laureate [Brian Schmidt](https://en.wikipedia.org/wiki/Brian_Schmidt).
 
 * *April 2025* — Received the **Sri V. Rajagopalan Memorial Award** for the highest academic performance in the Electrical Engineering department at IIT Madras.
 
