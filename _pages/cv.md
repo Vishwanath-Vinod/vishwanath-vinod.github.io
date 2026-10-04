@@ -17,7 +17,7 @@ redirect_from:
 
 <div style="width: 100%; height: 75vh;">
   <iframe
-    src="{{ '/assets/pdfjs/web/viewer.html?file=/misc/cv_vishnu.pdf' | relative_url }}"
+    src="{{ '/assets/pdfjs/web/viewer.html?file=/misc/Vishwanath_CV.pdf' | relative_url }}"
     style="width: 100%; height: 100%; border: none;"
     allowfullscreen
     loading="lazy">
