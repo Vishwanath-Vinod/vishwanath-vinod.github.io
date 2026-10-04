@@ -5,9 +5,26 @@ redirect_from:
   - /extras/
   - /extras.html
 ---
+Departmental academic service.
+
+<!-- ### Reviewing
+
+**Conferences**: NeurIPS, ICML, ICLR, AISTATS  
+
+**Journals**: JMLR, JOTA, Math. Prog.   -->
+
+### Department Service at IIT Madras
+
+- **GPU cluster maintainer** for Krishna Pillutla's group (2025-present)
+- **Teaching Assistant**: Introduction to ML (NPTEL), by Balaraman Ravindran in Spring '25
+- **Teaching Assistant**: Reinforcement Learning, by Balaraman Ravindran in Spring '24 & '25
+- **Teaching Assistant**: Foundations of ML, by Balaraman Ravindran in Fall '23
+- **Academic Mentor** for UG freshers, at the Student Mentorship Cell, IIT Madras  (2021)
 
 
-{% include base_path %}
+### Volunteering
 
-Site under construction \:)
+- Volunteer at NeurIPS 2025, to be held in San Diego, CA, USA
+- Volunteer at AAAI 2024, held in Vancouver, BC, Canada
+
 
