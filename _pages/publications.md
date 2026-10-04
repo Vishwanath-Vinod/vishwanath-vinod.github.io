@@ -17,7 +17,7 @@ redirect_from:
 ## Conference Publications
 
 **Cooperative Multi-Agent Reinforcement Learning for Fair Dynamic Pricing.**  
-Vishnu Vinod, Rachel Kalpana Kalaimani.  
+Vishwanath Vinod, Rachel Kalpana Kalaimani.  
 *Computing Conference (2026)*.  
 [PDF](/papers/Fairswarm.pdf)  &nbsp;
 [Code](https://github.com/Vishwanath-Vinod/Cooperative-Multi-Agent-Reinforcement-Learning-for-Fair-Dynamic-Pricing) &nbsp;
