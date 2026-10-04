@@ -16,38 +16,17 @@ redirect_from:
 
 ## Conference Publications
 
-**InvisibleInk: High-Utility and Low-Cost Text Generation with Differential Privacy.**  
-Vishnu Vinod, Krishna Pillutla, Abhradeep Guha Thakurta.  
-*NeurIPS (2025)*.  
-[PDF](https://arxiv.org/pdf/2507.02974)  &nbsp;
-[Code](https://github.com/cerai-iitm/invisibleink) &nbsp;
-[Poster](/papers/invink_neurips_2025_poster.pdf) &nbsp;
-[Slides](/papers/invink_neurips_2025_slides.pdf) &nbsp;
+**Cooperative Multi-Agent Reinforcement Learning for Fair Dynamic Pricing.**  
+Vishnu Vinod, Rachel Kalpana Kalaimani.  
+*Computing Conference (2026)*.  
+[PDF](/papers/Fairswarm.pdf)  &nbsp;
+[Code](https://github.com/Vishwanath-Vinod/Cooperative-Multi-Agent-Reinforcement-Learning-for-Fair-Dynamic-Pricing) &nbsp;
+[Slides](/papers/Fairswarm_slides.pdf) &nbsp;
 
 
-**Generating Universal Adversarial Perturbations for Quantum Classifiers.**  
-Gautham Govind Anil&#42;, Vishnu Vinod&#42;, Apurva Narayan.  
-*AAAI (2024)*.  
-[PDF](https://arxiv.org/pdf/2402.08648)  &nbsp;
-[Code](https://github.com/Idsl-group/QuGAP) &nbsp;
-[Poster](/papers/qugap_aaai_2024_poster.pdf) &nbsp;
-
-
-## Journal Articles
-
-**Preserving Expert-Level Privacy in Offline Reinforcement Learning.**  
-Navodita Sharma&#42;, Vishnu Vinod&#42;, Abhradeep Guha Thakurta, Alekh Agarwal, Borja Balle, Christoph Dann, Aravindan Raghuveer.  
-*TMLR (2025)*. <b><i><mark >Top 10% Submission</mark></i></b>  (J2C Certification).<br>
-[PDF](https://openreview.net/pdf?id=2bj0eVgCdO)  &nbsp;
-
-
-
-
-<small> &#42;: These authors contributed equally.</small>
-
-<!-- <p id="fn1" class="footnote">
-  &#42;: These authors contributed equally. 
-  <a href="#fnref1" title="return to text">↩</a>
-</p>
-
-[&#42;]: #fn1 -->
+**Point Neuron Embedded Kalman Filter for Narrowband Sound Source Tracking**  
+Vishwanath Vinod, Shaoheng Xu, Prasanga Samarasinghe, Amy Bastine, Thushara D. Abhayapala.  
+*EUSIPCO (2026)*.  
+[PDF](/papers/PNEKF.pdf)  &nbsp;
+[Code](https://github.com/Vishwanath-Vinod/Point-Neuron-Embedded-Kalman-Filter) &nbsp;
+[Slides](/papers/PNEKF_slides.pdf) &nbsp;
