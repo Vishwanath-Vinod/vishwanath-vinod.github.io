@@ -9,12 +9,12 @@ redirect_from:
 ---
 I am a final-year dual-degree student at IIT Madras, pursuing a BTech in Electrical Engineering and an MTech in Data Science & AI. I am currently working with [Prof. Krishna Pillutla](https://krishnap25.github.io/) for my Master's project on **Differentially Private State Space Models for synthetic text generation**.
 
-My research interests lie at the intersection of Electrical Engineering and Machine Learning, with a focus on **learning and control of dynamical systems**, particularly under ethical constraints such as **differential privacy, fairness, and robustness**.
+My research interests lie at the intersection of Electrical Engineering and Machine Learning, with a focus on **learning and control of dynamical systems**, particularly under ethical constraints such as **differential privacy, fairness, and robustness**. I enjoy tackling such problems that draw on my background in both fields, as it unlocks a whole new perspective for me.
 
 
 Previously, I worked with [Prof. Rachel Kalpana Kalaimani](https://www.ee.iitm.ac.in/rachel/index.html) in the Control & Optimisation group at IIT Madras, where I explored **fairness in dynamic pricing strategies using reinforcement learning algorithms**. I also spent a summer at the Australian National University as part of the Future Research Talent program, hosted by [Prof. Thushara Abhayapala](https://researchportalplus.anu.edu.au/en/persons/thushara-abhayapala/), where I developed a **Kalman filter variant for sound-source tracking using Point Neuron Learning**.
 
-I enjoy tackling problems that draw on my background in both Electrical Engineering and Machine Learning, from learning and control to privacy-preserving AI. If my work interests you, or if you'd simply like to chat about research, feel free to reach out at [vishwanath][vinod]2004@gmail[dot]com.
+If my work interests you, or if you'd simply like to chat about research, feel free to reach out at [vishwanath][vinod]2004@gmail[dot]com.
 
 ## News
 
