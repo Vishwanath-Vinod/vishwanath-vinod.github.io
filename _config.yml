@@ -23,7 +23,7 @@ repository               : "Vishwanath-Vinod/vishwanath-vinod.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile1.jpg"
+  avatar           : "profile1.jpeg"
   name             : "Vishwanath Vinod"
   pronouns         : # "he/him"  
   bio              : "Student Researcher"
