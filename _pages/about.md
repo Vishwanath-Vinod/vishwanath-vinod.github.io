@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a final-year dual-degree student at IIT Madras, pursuing a BTech in Electrical Engineering and an MTech in Data Science & AI. As part of my Master's project,  I am currently working with [Prof. Krishna Pillutla](https://krishnap25.github.io/) on **Differentially Private State Space Models for synthetic text generation**.
+I am a final-year dual-degree student at IIT Madras, pursuing a BTech in Electrical Engineering and an MTech in Data Science & AI. I am currently working with [Prof. Krishna Pillutla](https://krishnap25.github.io/) for my Master's project on **Differentially Private State Space Models for synthetic text generation**.
 
 My research interests lie at the intersection of Electrical Engineering and Machine Learning, with a focus on **learning and control of dynamical systems**, particularly under ethical constraints such as **differential privacy, fairness, and robustness**.
 
