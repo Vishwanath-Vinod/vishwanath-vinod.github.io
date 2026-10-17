@@ -24,7 +24,7 @@ Vishwanath Vinod, Rachel Kalpana Kalaimani.
 [Slides](/papers/Fairswarm_slides.pdf) &nbsp;
 
 
-**Point Neuron Embedded Kalman Filter for Narrowband Sound Source Tracking**  
+**Point Neuron Embedded Kalman Filter for Narrowband Sound Source Tracking.**  
 Vishwanath Vinod, Shaoheng Xu, Prasanga Samarasinghe, Amy Bastine, Thushara D. Abhayapala.  
 *EUSIPCO (2026)*.  
 [PDF](/papers/PNEKF.pdf)  &nbsp;
