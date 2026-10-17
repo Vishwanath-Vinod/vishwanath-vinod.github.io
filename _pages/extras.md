@@ -15,6 +15,7 @@ redirect_from:
 
 ### Volunteering
 
+* **Indian Control Conference 2026:** Reviewer — Reviewed papers on Reinforcement Learning and Control.
 * **Electrical Engineering Research Club:** Coordinator — Promoted a research culture within the department by organising talks and seminars.
 * **Coding & Logic Club, Shaastra Tech Fest:** Coordinator — Organised and conducted competitive programming competitions.
 * **Electrical Engineering Placement Team:** Deputy Coordinator — Managed placement drives and coordinated student–company interactions.
