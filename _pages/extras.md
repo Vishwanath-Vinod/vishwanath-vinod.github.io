@@ -1,12 +1,12 @@
 ---
-title: "Extracurriculars"
+title: "Services"
 author_profile: true
 redirect_from: 
   - /extras/
   - /extras.html
 ---
 
-### Academic Extra-Curriculars at IIT Madras
+### Academic Positions at IIT Madras
 
 - **Teaching Assistant**: Reinforcement Learning, by Balaraman Ravindran in Spring '26
 - **Teaching Assistant**: Foundations of Machine Learning, by Krishna Pillutla in Fall '26
