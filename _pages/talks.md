@@ -10,4 +10,5 @@ redirect_from:
 - **2026** — Speaker at the Electrical Engineering Research Symposium, IIT Madras
 - **2026** — Oral Presentation at the 14th Computing Conference, London, UK
 - **2026** — State Space Models Research Talk, Machine Learning & AI Lab, IIT Madras
+- **2026** - State Space Models Lecture, Winter School @ BRAIN Lab, IIT Madras
 
